@@ -6,7 +6,7 @@ This is just a UI implementation with no functionality, covering following scree
 3. Wallet creation / backup
 
 ## Video walkthrough
-![](preview/video-demo.mov)
+![](preview/video-demo.mp4)
 
 ## Screens
 ![](preview/screen-01.png)
